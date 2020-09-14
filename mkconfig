@@ -1,0 +1,3 @@
+NAME = nobs
+LOCAL = $HOME/local
+BIN = $LOCAL/bin
